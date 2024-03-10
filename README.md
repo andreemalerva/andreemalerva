@@ -1,16 +1,25 @@
-### Hi there 👋
+<div>
+    <h1 align="center">A N D R E E M A L E R V A . C O M</h1>
+</div>
 
-<!--
-**andreemalerva/andreemalerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mí
+¡Hola!
 
-Here are some ideas to get you started:
+Soy Andree, estoy creando mi portafolio en [andreemalerva.com](http://www.andreemalerva.com/), actualmente soy Desarrollador Front End, y me agrada seguir aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajemos juntos, te dejo por acá mi contacto.
+
+```
+📩 hola@andreemalerva.com
+📲 +52 228 353 0727
+🌐 [andreemalerva.com](https://andreemalerva.com/)
+🐈 https://gitlab.com/andreemalerva
+```
+
+# Acerca de mis proyectos
+
+Los proyectos expuestos acá son parte de mi experiencia y fueron realizados con mucho esfuerzo y entusiasmo de aprender.
+
+# Politícas de privacidad
+
+Las imagenes, archivos css, html y adicionales son propiedad de © 2023 LYAM ANDREE CRUZ MALERVA
